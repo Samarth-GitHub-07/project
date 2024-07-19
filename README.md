@@ -1,8 +1,5 @@
-# del-demo
-This is a demo of github class.
+# demo
+This is a demo of github.
 
-# teacher
-apna college
-
-# student
+# user
 samarth patil
